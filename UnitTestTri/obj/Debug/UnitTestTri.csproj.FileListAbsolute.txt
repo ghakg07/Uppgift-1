@@ -1,0 +1,7 @@
+P:\Git\Uppgift-1\UnitTestTri\bin\Debug\UnitTestTri.dll
+P:\Git\Uppgift-1\UnitTestTri\bin\Debug\UnitTestTri.pdb
+P:\Git\Uppgift-1\UnitTestTri\bin\Debug\Tri.exe
+P:\Git\Uppgift-1\UnitTestTri\bin\Debug\Tri.pdb
+P:\Git\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+P:\Git\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.dll
+P:\Git\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.pdb
